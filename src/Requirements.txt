@@ -1,0 +1,52 @@
+Modeling Requirements
+1. Implement logistic regression as the primary model.
+2. Compare other machine learning models:
+    - Decision trees/Random Forest
+    - Support Vector Machines (SVM)
+    - Gradient Boosting methods
+    - Neural Networks/Deep Learning approaches
+3. Use cross-validation to evaluate model performance.
+
+Analysis Requirements
+1. Perform exploratory data analysis (EDA) to understand the dataset.
+2. Feature engineering and selection to improve model performance.
+3. Handle missing values and outliers
+4. Address class imbalance if present.
+5. Hyperparameter tuning for all optimal model performance.
+
+Evaluation Requirements
+1. Calculate performance metrics:
+    - Accuracy
+    - Precision
+    - Recall
+    - F1 Score
+    - ROC-AUC score
+2. Generate confusion matrices for each model.
+3. Plot ROC curves for model comparison.
+4. Report cross-validation results across different folds.
+5. Create learning curves to identif underfitting/overfitting.
+6. Measure and report model execution time.
+
+Documentation Requirements
+1. Literature review of existing methods and challenges.
+2. Flowchart illustrating the mdoel architecture and pipeline.
+3. Detailed explanation of feature importance.
+4. Analysis of model perofrmance on different customer segments.
+5. Recommendations for the bank based on findings.
+6. Team contribution summary.
+7. Summary of innovations and contributions to existing research.
+
+Technical Implementation Requirements
+1. Progarmming language: Python with libraries:
+    - Pandas, NumPy for data manipulation
+    - Scikit-learn for Modeling
+    - Matplotlib, seaborn for visualization
+    - TensorFlow/PyTorch for implmementing deep learning
+2. Version control (Git) for team collaboration.
+3. Documentation using Jupyter notebooks or similar tools.
+
+Project Management
+1. Team role assignments
+2. Timeline and milestones
+3. Regular progress meetings
+4. Final presentation preparation
