@@ -24,7 +24,7 @@ Evaluation Requirements
 2. Generate confusion matrices for each model.
 3. Plot ROC curves for model comparison.
 4. Report cross-validation results across different folds.
-5. Create learning curves to identif underfitting/overfitting.
+5. Create learning curves to identify underfitting/overfitting.
 6. Measure and report model execution time.
 
 Documentation Requirements

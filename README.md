@@ -8,3 +8,6 @@ Using the Loan Prediction Dataset we will be doing Machine Learning
 - pathlib
 - scikit-learn
 - os
+- matplotlib
+- seaborn
+- imblearn
